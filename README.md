@@ -2,7 +2,7 @@
 
 Different applications and software require different solutions for automated testing. However, many of these frameworks require most of the same base components.
 
-As such, I've decided to create this **Test Automation Framework Skeleton** project. For more automation tips, tricks, and videos, check out my personal website: https://andreidobra.com
+As such, I've decided to create this **Test Automation Framework Skeleton** project. I've detailed exactly [how I created this project and how to use it on my blog](https://andreidobra.com/blog/full-stack-test-automation-framework-skeleton). For more automation tips, tricks, and videos, check out my personal website: https://andreidobra.com
 
 ---
 
