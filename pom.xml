@@ -15,7 +15,7 @@
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
 
-    <test.version>7.7.1</test.version>
+    <testng.version>7.7.1</testng.version>
     <selenium.version>4.8.0</selenium.version>
     <rest.assured.version>5.3.0</rest.assured.version>
     <log4j2.version>2.19.0</log4j2.version>
@@ -25,7 +25,7 @@
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
-      <version>7.7.1</version>
+      <version>${testng.version}</version>
     </dependency>
 
     <dependency>
